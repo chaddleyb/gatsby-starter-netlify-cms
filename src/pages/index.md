@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Data, Aha!
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Displaying Data Delights and Insights
+subheading: 10+ Years Experience with Nonprofit, Goverment, and Education Sectors 
 mainpitch:
   title: Why Kaldi
   description: >
