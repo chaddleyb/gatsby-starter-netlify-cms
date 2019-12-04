@@ -15,6 +15,7 @@ export const IndexPageTemplate = ({
   description,
   intro,
 }) => (
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
   <div>
     <div
       className="full-width-image margin-top-0"
