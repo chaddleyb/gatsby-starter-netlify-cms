@@ -1,4 +1,6 @@
 ---
+<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+
 templateKey: index-page
 title: Data, Aha!
 image: /img/home-jumbotron.jpg
@@ -68,3 +70,14 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
+<script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", user => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+  }
+</script>
