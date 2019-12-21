@@ -1,6 +1,4 @@
 ---
-<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-
 templateKey: index-page
 title: Data, Aha!
 image: /img/home-jumbotron.jpg
@@ -69,6 +67,7 @@ main:
   image3:
     alt: Coffee beans
     image: /img/products-grid1.jpg
+<<<<<<< HEAD
 <script>
   if (window.netlifyIdentity) {
     window.netlifyIdentity.on("init", user => {
@@ -80,4 +79,6 @@ main:
     });
   }
 </script>
+=======
+>>>>>>> parent of f5fc75a... Update index.md
 ---
