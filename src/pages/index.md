@@ -67,7 +67,6 @@ main:
   image3:
     alt: Coffee beans
     image: /img/products-grid1.jpg
-<<<<<<< HEAD
 <script>
   if (window.netlifyIdentity) {
     window.netlifyIdentity.on("init", user => {
@@ -79,6 +78,4 @@ main:
     });
   }
 </script>
-=======
->>>>>>> parent of f5fc75a... Update index.md
 ---
