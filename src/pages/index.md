@@ -67,15 +67,4 @@ main:
   image3:
     alt: Coffee beans
     image: /img/products-grid1.jpg
-<script>
-  if (window.netlifyIdentity) {
-    window.netlifyIdentity.on("init", user => {
-      if (!user) {
-        window.netlifyIdentity.on("login", () => {
-          document.location.href = "/admin/";
-        });
-      }
-    });
-  }
-</script>
 ---
