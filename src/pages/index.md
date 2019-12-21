@@ -69,7 +69,6 @@ main:
   image3:
     alt: Coffee beans
     image: /img/products-grid1.jpg
----
 <script>
   if (window.netlifyIdentity) {
     window.netlifyIdentity.on("init", user => {
@@ -81,3 +80,4 @@ main:
     });
   }
 </script>
+---
