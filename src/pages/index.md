@@ -8,7 +8,7 @@ heading: Displaying Data Delights and Insights
 subheading: 10+ Years Experience with Nonprofit, Goverment, and Education Sectors 
 mainpitch:
   title: Why Kaldi
-  description: >
+  description: >-
     Kaldi is the coffee store for everyone who believes that great coffee
     shouldn't just taste good, it should do good too. We source all of our beans
     directly from small scale sustainable farmers and make sure part of the
