@@ -1,9 +1,9 @@
 # Redirects from what the browser requests to what we serve
 /                   https://www.linkedin.com/in/chaddbennett
-/home              /
-/blog/my-post.php  /blog/my-post
-/linkedin          https://www.linkedin.com/in/chaddbennett
-/linked-in          
+/home               /
+/blog/my-post.php   /blog/my-post
+/linkedin           /
+/linked-in          /
 /annualreports      https://1drv.ms/u/s!AuxQXelr-ZPEh_RKTXZV6NsMdhLkRA?e=u5AvCa
 /allstars           https://1drv.ms/b/s!AuxQXelr-ZPEh_RR4bYFcfbaIbXfOQ?e=RviyPC
 /allstaralum        https://1drv.ms/b/s!AuxQXelr-ZPEh_Rdx3pUNQbpAao3Sg?e=dvvbR9
