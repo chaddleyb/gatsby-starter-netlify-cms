@@ -5,66 +5,26 @@ image: /img/home-jumbotron.jpg
 heading: Displaying Data Delights and Insights
 subheading: 10+ Years Experience with Nonprofit, Goverment, and Education Sectors 
 mainpitch:
-  title: Why Kaldi
+  title: Why Chadd Bennett and Data Aha?
   description: >-
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+   I love helping nonprofits, agencies, and small businesses wrangle and understand their data, integrate multiple datasets, and create interactive maps, charts, and dashboards. 
+   
+   
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: 
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
+    No project is too small, and scope can be creatively adjusted for any budget. 
+    Costs, development time, and future updates are well managed by using Tableau, Microsoft Power BI and Excel (with Power Query and Pivots), Google Apps and other common tools and services (and are discounted heavily for 501c3's.)
+
+- image: 
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+        I love retrieving, cleaning, merging and describing data from internal and open/public sources, and I have designed and conducted periodic data collections and surveys from partners and individuals, often with governance policies requiring suppression privacy compliance. I am thoughtful at assessing, designing, and evaluating products, projects, processes and tools from a variety of user perspectives.
+
     - image: /img/tutorials.png
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
-  heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
-main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
-  image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
-  image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
-  image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
+        Colleagues and clients have described me as a collaborative and supportive partner, comfortable working with support, managerial and executive staff; adaptable, loyal, and hard working, flexible to change, open to feedback, and continuously improving product and skill; Intensely curious and enthusiastic, bringing energy and helping positively change team and project dynamics. 
+
 ---
