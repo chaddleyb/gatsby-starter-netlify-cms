@@ -16,8 +16,7 @@ intro:
   blurbs:
     - image: 
       text: >
-    No project is too small, and scope can be creatively adjusted for any budget. 
-    Costs, development time, and future updates are well managed by using Tableau, Microsoft Power BI and Excel (with Power Query and Pivots), Google Apps and other common tools and services (and are discounted heavily for 501c3's.)
+      No project is too small, and scope can be creatively adjusted for any budget. Costs, development time, and future updates are well managed by using Tableau, Microsoft Power BI and Excel (with Power Query and Pivots), Google Apps and other common tools and services (and are discounted heavily for 501c3's.)
 
 - image: 
       text: >
