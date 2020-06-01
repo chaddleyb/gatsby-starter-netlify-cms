@@ -8,8 +8,7 @@ mainpitch:
   title: Why Chadd Bennett and Data Aha?
   description: >-
    I love helping nonprofits, agencies, and small businesses wrangle and understand their data, integrate multiple datasets, and create interactive maps, charts, and dashboards. 
-   
-   
+      
 description: >-
   
 intro:
