@@ -8,7 +8,7 @@ mainpitch:
   title: Why Chadd Bennett and Data Aha?
   description: >-
    I love helping nonprofits, agencies, and small businesses wrangle and understand their data, integrate multiple datasets, and create interactive maps, charts, and dashboards. 
-      
+
 description: >-
   
 intro:
@@ -16,8 +16,7 @@ intro:
     - image: 
       text: >
       No project is too small, and scope can be creatively adjusted for any budget. Costs, development time, and future updates are well managed by using Tableau, Microsoft Power BI and Excel (with Power Query and Pivots), Google Apps and other common tools and services (and are discounted heavily for 501c3's.)
-
-- image: 
+-     image: 
       text: >
         I love retrieving, cleaning, merging and describing data from internal and open/public sources, and I have designed and conducted periodic data collections and surveys from partners and individuals, often with governance policies requiring suppression privacy compliance. I am thoughtful at assessing, designing, and evaluating products, projects, processes and tools from a variety of user perspectives.
 
